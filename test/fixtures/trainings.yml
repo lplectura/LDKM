@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  datefrom: 2018-11-07
+  dateto: 2018-11-07
+  hours: 2018-11-07 13:52:25
+  role: MyString
+  venue: MyString
+  provider: MyString
+  status: false
+
+two:
+  name: MyString
+  datefrom: 2018-11-07
+  dateto: 2018-11-07
+  hours: 2018-11-07 13:52:25
+  role: MyString
+  venue: MyString
+  provider: MyString
+  status: false
